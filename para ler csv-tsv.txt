@@ -1,0 +1,5 @@
+1) Instalar python 3.0
+2) Abrir cmd/terminal
+3) Digitar: python -m http.server [<portNo>]
+
+  *** python -m http.server 8888
