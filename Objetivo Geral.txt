@@ -1,0 +1,1 @@
+ Elaborar uma ferramenta de visualização de mapas capaz de ser adaptativa, podendo se adequar a qualquer mapa e dados previamente formatados para uso na ferramenta; permitir a exibição de multiplas variáveis visuais correspondentes aos dados e por fim possibilitar a interação com o usuário através de eventos que mostrem informações de interesse para o mesmo.
